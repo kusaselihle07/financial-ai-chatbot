@@ -1,0 +1,22 @@
+[
+  {
+    "keywords": ["budget", "budgeting"],
+    "answer": "Budgeting is the process of planning how to spend your money to meet expenses, savings, and financial goals."
+  },
+  {
+    "keywords": ["emergency fund"],
+    "answer": "An emergency fund is money saved for unexpected expenses like medical bills or job loss."
+  },
+  {
+    "keywords": ["risk", "risk management"],
+    "answer": "Risk management involves identifying risks and reducing their financial impact using insurance or savings."
+  },
+  {
+    "keywords": ["debt", "loan"],
+    "answer": "Debt is borrowed money that must be repaid, usually with interest."
+  },
+  {
+    "keywords": ["insurance"],
+    "answer": "Insurance protects you financially against losses such as illness, accidents, or property damage."
+  }
+]
